@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lee-manager-service:war">
+    <output-path>$PROJECT_DIR$/lee-manager/lee-manager-service/target</output-path>
+    <root id="archive" name="lee-manager-service.war">
+      <element id="artifact" artifact-name="lee-manager-service:war exploded" />
+    </root>
+  </artifact>
+</component>

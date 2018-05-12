@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lee-common" />
+        <module name="lee-manager-dao" />
+        <module name="lee-manager-interface" />
+        <module name="lee-manager-pojo" />
+        <module name="lee-manager-service" />
+        <module name="lee-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lee-common" target="1.7" />
+      <module name="lee-manager" target="1.7" />
+      <module name="lee-manager-dao" target="1.7" />
+      <module name="lee-manager-interface" target="1.7" />
+      <module name="lee-manager-pojo" target="1.7" />
+      <module name="lee-manager-service" target="1.7" />
+      <module name="lee-manager-web" target="1.7" />
+      <module name="lee-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
